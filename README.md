@@ -1,7 +1,7 @@
 ### Hi there  please to meet you👋
 ## Am a software Engineer 
 
-bash c css3 git html5 python vagrant
+
 
 **Saint8083/Saint8083** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,5 +27,6 @@ Here are some ideas to get you started:
 
 
 # **Languages and Tools:**
-![c-original](https://github.com/Saint8083/Saint8083/assets/122878923/97dd9513-4e71-4a02-835e-a5587412142b)  ![html5-original-wordmark](https://github.com/Saint8083/Saint8083/assets/122878923/106ed9e2-530a-42a2-a5c8-504ee978002a)
+![img|320x271,50%](https://github.com/Saint8083/Saint8083/assets/122878923/97dd9513-4e71-4a02-835e-a5587412142b width="25" height="25")
+![img|320x271,50%][html5-original-wordmark](https://github.com/Saint8083/Saint8083/assets/122878923/106ed9e2-530a-42a2-a5c8-504ee978002awidth="25" height="25" )
 
