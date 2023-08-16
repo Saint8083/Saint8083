@@ -1,10 +1,7 @@
 ### Hi there  please to meet you👋
 ## Am a software Engineer 
 
-![linked-in-alt](https://github.com/Saint8083/Saint8083/assets/122878923/a09d157f-785c-43ac-9c1a-4abbd0684182) ![twitter](https://github.com/Saint8083/Saint8083/assets/122878923/f28f3f19-f6f5-437d-98a8-20322b10cb32)
-![instagram](https://github.com/Saint8083/Saint8083/assets/122878923/86201bb1-e8df-4526-8ed8-d886ec38c934)
-
-
+bash c css3 git html5 python vagrant
 
 **Saint8083/Saint8083** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
