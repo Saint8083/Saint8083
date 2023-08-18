@@ -2,9 +2,6 @@
 ## Am a software Engineer 
 
 
-
-**Saint8083/Saint8083** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 ## **Get to know me** 
 - I'm an adaptable, resourceful, and meticulous software engineering intern at ALX Africa specializing in back-end development, with a B.Eng in Mechanical Engineering.
