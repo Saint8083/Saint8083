@@ -9,10 +9,11 @@ Here are some ideas to get you started:
 + Favorite Quote: > Don't let your self be describ, Always be you.
 - For inquiries or opportunities, please send me an Email
 
-![desktop-wallpaper-anime-girl-computer-anime-programming](https://github.com/Saint8083/Saint8083/assets/122878923/355371aa-2911-42ce-9be6-33d5f1d7371f)
+![anime-tyan--discord-themes-download-free-35756](https://github.com/Saint8083/Saint8083/assets/122878923/449edf45-f3b1-4ed8-938d-a427c1ba77af)
 
 > [!IMPORTANT]
 - 🌱 I’m currently learning to be a Front and Back_End Developer
+
 + 👯 I’m looking to collaborate on Github
 * 🤔 I’m looking for help with any one in my area of learning l.e C, JAVA, JAVASCRIPT, PYTHON
 - 📫 How to reach me: Twitter, Instagram, Facebook
