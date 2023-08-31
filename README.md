@@ -1,6 +1,6 @@
 ### Hi there  please to meet you👋
 ## Am a software Engineer 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=thanks+for+dropping+by;Hi+please+to+you;l'm+Saint+a+front-backend+developer;software+engineering+intern+@ALX+Afica)](https://git.io/typing-svg)
 
 Here are some ideas to get you started:
 ## **Get to know me** 
